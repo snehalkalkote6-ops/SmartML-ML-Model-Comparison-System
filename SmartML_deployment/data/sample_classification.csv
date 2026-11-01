@@ -1,0 +1,81 @@
+age,annual_income,credit_score,loan_amount,employment_years,debt_to_income,home_ownership,education,loan_approved
+28,45000,680,12000,3.5,0.28,Rent,Bachelor,Approved
+45,85000,740,25000,12.0,0.22,Mortgage,Master,Approved
+23,28000,590,8000,1.0,0.48,Rent,High School,Rejected
+38,62000,710,18000,7.0,0.31,Own,Bachelor,Approved
+52,110000,790,35000,18.0,0.18,Mortgage,PhD,Approved
+31,38000,610,15000,2.5,0.45,Rent,High School,Rejected
+29,54000,695,14000,4.0,0.26,Rent,Bachelor,Approved
+41,75000,730,22000,9.0,0.29,Mortgage,Master,Approved
+26,32000,580,10000,1.5,0.52,Rent,Bachelor,Rejected
+48,96000,770,30000,15.0,0.21,Own,PhD,Approved
+35,58000,670,16000,6.0,0.35,Rent,Bachelor,Approved
+24,30000,605,9000,1.2,0.44,Rent,High School,Rejected
+43,82000,750,24000,11.0,0.24,Mortgage,Master,Approved
+33,49000,660,13000,5.0,0.38,Rent,Bachelor,Approved
+56,125000,810,40000,22.0,0.15,Own,Master,Approved
+27,36000,625,11000,2.0,0.42,Rent,High School,Rejected
+39,68000,725,20000,8.5,0.27,Mortgage,Bachelor,Approved
+47,91000,760,28000,14.0,0.23,Own,Master,Approved
+25,29000,575,7500,0.8,0.49,Rent,High School,Rejected
+36,64000,705,17500,6.5,0.30,Mortgage,Bachelor,Approved
+50,105000,785,32000,17.0,0.19,Mortgage,PhD,Approved
+30,42000,640,12500,3.0,0.40,Rent,Bachelor,Rejected
+44,87000,745,26000,11.5,0.25,Mortgage,Master,Approved
+32,51000,685,14500,4.5,0.33,Rent,Bachelor,Approved
+54,118000,805,38000,20.0,0.16,Own,Master,Approved
+22,26000,570,6000,0.5,0.51,Rent,High School,Rejected
+40,71000,715,19000,9.0,0.28,Mortgage,Bachelor,Approved
+46,89000,755,27000,13.5,0.22,Own,Master,Approved
+28,39000,615,13500,2.5,0.46,Rent,Bachelor,Rejected
+37,66000,710,18500,7.5,0.29,Mortgage,Bachelor,Approved
+51,108000,795,34000,17.5,0.17,Mortgage,PhD,Approved
+29,46000,675,13000,3.8,0.34,Rent,Bachelor,Approved
+42,80000,735,23000,10.5,0.26,Mortgage,Master,Approved
+25,31000,595,8500,1.2,0.47,Rent,High School,Rejected
+49,99000,780,31000,16.0,0.20,Own,PhD,Approved
+34,55000,690,15500,5.5,0.32,Rent,Bachelor,Approved
+23,27000,565,7000,0.7,0.53,Rent,High School,Rejected
+45,86000,750,25500,12.5,0.23,Mortgage,Master,Approved
+31,44000,650,14000,3.2,0.39,Rent,Bachelor,Rejected
+55,122000,815,39000,21.0,0.14,Own,Master,Approved
+26,34000,630,10500,2.0,0.41,Rent,High School,Rejected
+38,69000,720,19500,8.0,0.27,Mortgage,Bachelor,Approved
+48,94000,765,29000,14.5,0.21,Own,Master,Approved
+24,29500,585,8000,1.0,0.50,Rent,High School,Rejected
+36,61000,700,17000,6.8,0.31,Mortgage,Bachelor,Approved
+53,115000,800,36000,19.0,0.18,Mortgage,PhD,Approved
+30,41000,620,12000,2.8,0.43,Rent,Bachelor,Rejected
+43,84000,740,24500,11.0,0.24,Mortgage,Master,Approved
+33,52000,680,15000,4.8,0.33,Rent,Bachelor,Approved
+57,130000,820,42000,23.0,0.13,Own,PhD,Approved
+27,37000,645,11500,2.2,0.38,Rent,Bachelor,Approved
+41,74000,730,21500,9.5,0.28,Mortgage,Bachelor,Approved
+47,92000,760,28500,14.0,0.22,Own,Master,Approved
+26,33000,590,9500,1.4,0.48,Rent,High School,Rejected
+39,67000,715,19000,8.5,0.29,Mortgage,Bachelor,Approved
+50,102000,780,33000,16.5,0.20,Mortgage,Master,Approved
+28,43000,665,12800,3.5,0.35,Rent,Bachelor,Approved
+44,88000,750,26500,12.0,0.23,Mortgage,Master,Approved
+23,28500,575,7200,0.9,0.52,Rent,High School,Rejected
+35,59000,695,16500,6.2,0.30,Rent,Bachelor,Approved
+52,112000,795,35500,18.5,0.17,Own,PhD,Approved
+32,48000,655,13800,4.0,0.37,Rent,Bachelor,Approved
+46,90000,755,27500,13.0,0.21,Mortgage,Master,Approved
+25,30500,600,8800,1.1,0.46,Rent,High School,Rejected
+37,65000,710,18000,7.2,0.29,Mortgage,Bachelor,Approved
+51,106000,790,34500,17.0,0.18,Own,PhD,Approved
+29,47000,670,13200,3.6,0.34,Rent,Bachelor,Approved
+42,81000,735,23500,10.0,0.25,Mortgage,Master,Approved
+24,31000,580,8200,1.3,0.50,Rent,High School,Rejected
+48,97000,770,30500,15.5,0.19,Mortgage,Master,Approved
+34,56000,690,15800,5.2,0.31,Rent,Bachelor,Approved
+22,25000,560,6500,0.6,0.54,Rent,High School,Rejected
+45,85000,745,25000,12.0,0.24,Mortgage,Master,Approved
+30,40000,635,12200,2.6,0.42,Rent,Bachelor,Rejected
+56,128000,815,41000,22.0,0.15,Own,Master,Approved
+27,35000,610,10200,1.8,0.44,Rent,High School,Rejected
+40,72000,725,20500,9.2,0.27,Mortgage,Bachelor,Approved
+47,93000,765,29500,14.2,0.20,Own,Master,Approved
+25,29000,585,7800,1.0,0.49,Rent,High School,Rejected
+38,68000,715,19200,8.2,0.28,Mortgage,Bachelor,Approved
